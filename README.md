@@ -28,6 +28,6 @@
 
 <p align="center">
 <a href="https://bienaime.rw/"><img alt="Website" src="https://img.shields.io/badge/Website-https://bienaime.rw-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/bien-aim%C3%A9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-bien-aimé-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/bien-aim%C3%A9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-bien%20aimé-blue?style=flat-square&logo=linkedin"></a>
 <a href="bybienaime@gmail.com"><img alt="Email" src="bybienaime@gmail.com"></a>
 </p>
