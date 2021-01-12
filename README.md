@@ -15,7 +15,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React-Native](https://img.shields.io/badge/React%20Native-react%20native-green)
 - 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  !(https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
  
 <br/>
 
