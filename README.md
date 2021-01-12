@@ -1,8 +1,8 @@
 <h2> Hey there! I'm Bien Aime.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 🤔 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I am an enthusiastic and creative web and mobile app developer.
+-  &nbsp; I am an enthusiastic and creative web and mobile app developer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
