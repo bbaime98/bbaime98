@@ -1,34 +1,19 @@
-<h2> Hey there! I'm Bien Aime.</h2>
+# Hi, I'm Bien Aime 👋
 
-<h3> 🤔 &nbsp;About Me </h3>
+**Senior Full-Stack Engineer** with 5+ years of experience architecting high-throughput backend microservices and modern web & mobile applications. Specializing in resilient enterprise Java systems, server-rendered web platforms, and cross-platform mobile solutions.
 
--  &nbsp; I am an enthusiastic and creative web and mobile app developer.
+---
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### 💻 Core Tech Stack
 
-- 💻 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React-Native](https://img.shields.io/badge/React%20Native-react%20native-green)
-- 🛢 &nbsp;
-  ![](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
- 
-<br/>
+* **Backend Systems:** Java, Spring Boot, Spring Security, Microservices, REST / GraphQL APIs
+* **Frontend & Mobile:** React, Next.js, React Native, TypeScript, Tailwind CSS
+* **Data & Cloud:** PostgreSQL, Redis, Docker, CI/CD Pipelines, AWS
 
-<a href="https://github.com/bbaime98">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bbaime98&theme=buefy&show_icons=true" />
-</a>
+---
 
-<br/>
+### ⚡ What I Do
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://bienaime.rw/"><img alt="Website" src="https://img.shields.io/badge/Website-https://bienaime.rw-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/bien-aim%C3%A9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-bien%20aimé-blue?style=flat-square&logo=linkedin"></a>
-<a href="bybienaime@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bybienaime@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+* 🚀 **Architect & Scale:** Design high-concurrency Spring Boot microservices, security protocols, and robust data processing engines.
+* 🌐 **Modern Web Engineering:** Build fast, server-rendered web applications with Next.js and React.
+* 📱 **Cross-Platform Mobile:** Develop clean, performant iOS and Android applications using React Native.
